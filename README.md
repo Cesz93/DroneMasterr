@@ -81,7 +81,7 @@ By using the resources provided in this project, you agree to the following term
 
 ## 7. Deployment
 
-Deployment is done through the following platform: [Netlify](https://www.netlify.com/](https://663fb099bad0a31b02052ccd--melodious-lebkuchen-810132.netlify.app/)).
+Deployment is done through the following platform: [Netlify](https://www.netlify.com/](https://663fb099bad0a31b02052ccd--melodious-lebkuchen-810132.netlify.app/)](https://663fb099bad0a31b02052ccd--melodious-lebkuchen-810132.netlify.app/)).
 
 ## Contributions
 
